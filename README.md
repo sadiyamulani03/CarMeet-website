@@ -32,3 +32,5 @@ The website is designed to showcase car meetup events, allowing users to explore
 
 Part of Web Technology Coursework
 Savitribai Phule Pune University
+
+---
