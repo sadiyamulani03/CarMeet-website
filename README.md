@@ -82,6 +82,17 @@ start carmeetup.html
 
 ---
 
+## Demo
+
+1. Community Features
+<img width="1062" height="712" alt="image" src="https://github.com/user-attachments/assets/6b64d9fa-cb39-47c5-9409-04cc827037cf" />
+
+2. Event Gallery
+<img width="856" height="692" alt="image" src="https://github.com/user-attachments/assets/54fd81e5-94c0-40a1-97a1-ae64c22ab22a" />
+
+3. Registration Form
+<img width="1889" height="611" alt="image" src="https://github.com/user-attachments/assets/0e9a2862-83b5-404b-bf1c-d71df33e31d1" />
+
 ## 🌱 Learning Outcomes
 
 This project demonstrates:
